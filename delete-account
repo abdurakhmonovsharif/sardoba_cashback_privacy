@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Delete Account — Sardoba</title>
+  </head>
+
+  <body>
+    <main style="max-width: 900px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6;">
+     <h1>Account Deletion</h1>
+
+<p>This page explains how users can request account deletion in the Sardoba mobile application.</p>
+
+<h2>How to delete your account</h2>
+<ol>
+  <li>Open the Sardoba mobile app</li>
+  <li>Go to Profile → Settings</li>
+  <li>Select "Delete Account"</li>
+  <li>Confirm the action</li>
+</ol>
+
+<h2>What data is deleted</h2>
+<ul>
+  <li>User profile information</li>
+  <li>Transaction history</li>
+  <li>Bonus and cashback data</li>
+  <li>Device and session data</li>
+</ul>
+
+<h2>Data retention</h2>
+<p>
+The user's phone number is retained for up to <strong>90 days</strong> for legal and fraud-prevention purposes.
+After 90 days, the phone number is permanently deleted from our systems.
+</p>
+
+<h2>Contact</h2>
+<p>
+If you experience any issues, contact us at:
+<strong>sardobadevelopment@gmail.com</strong>
+</p>
+
+
+      <footer style="margin-top: 32px; font-size: 13px; color: #666;">
+        © 2025 Sardoba. All rights reserved.
+      </footer>
+    </main>
+  </body>
+</html>
