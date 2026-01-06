@@ -1,1 +1,1 @@
-# sardoba_cashback_privacy
+Privacy Policy page for the Sardoba Cashback application. Static HTML project deployed for public access and compliance with platform requirements.
